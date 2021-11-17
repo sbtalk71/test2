@@ -1,3 +1,4 @@
 this is file -1 added by alice
 this is file -1 line 2 added by alice
 bob added the line here
+bob added line 2
