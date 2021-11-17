@@ -1,0 +1,8 @@
+this is file -1 added by alice
+this is file -1 line 2 added by alice
+bob added the line here
+<<<<<<< HEAD
+bob added line 2
+=======
+this is file -1 line 3 added by alice
+>>>>>>> 75bae94b43a29aa8baf975c73f4e9545b1e0bcbb
